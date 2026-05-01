@@ -21,7 +21,6 @@ except ImportError as e:
 # ==========================================
 st.set_page_config(page_title="MFT Quant Workstation", layout="wide")
 
-st.title("🔬 MFT Research Analyst Workstation")
 page = st.sidebar.radio("Select Module", 
     ["Market Simulation", "Option Pricing", "Live Backtester", "Portfolio VaR"])
 
