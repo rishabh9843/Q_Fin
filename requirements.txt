@@ -1,0 +1,13 @@
+# Core Numerical & Data Libraries
+numpy>=1.23.0
+pandas>=1.5.0
+scipy>=1.9.0
+
+# Interactive Dashboard
+streamlit>=1.25.0
+
+# Data Visualization
+plotly>=5.13.0
+
+# Statistical Modeling (Optional but recommended for quant roles)
+statsmodels>=0.14.0
