@@ -1,5 +1,5 @@
 # Q_Fin
-# Quantitative Research & Risk Workstation 📈🔬
+# Quantitative Research & Risk Analytics 📈🔬
 
 
 
